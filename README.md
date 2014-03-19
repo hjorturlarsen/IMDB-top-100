@@ -8,3 +8,5 @@ og velja þær myndir sem viðkomandi notandi hefur séð með því að klikka 
 Einnig er hægt að fara á undirsíðuna „rank“ sem sýnir lista yfir alla þá notendur sem hafa búið til aðgang 
 og merkt við einhverjar myndir. Listanum er raðað í minnkandi röð út frá því hvað notendur hafa merkt 
 við margar myndir.
+
+URL: https://notendur.hi.is/~hth154/Vefforittun/Lokaverkefni/php/
