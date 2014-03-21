@@ -1,7 +1,7 @@
 IMDB-top-100
 ============
 
-Lokaverkefni í vefforritun 2013
+Tölvunarfræði, 2. ár, Vefforritun, Háskóli Íslands 2013
 
 Síðan inniheldur lista yfir 100 vinsælustu kvikmyndir IMDB frá október 2013, hægt er að búa til notanda 
 og velja þær myndir sem viðkomandi notandi hefur séð með því að klikka á plaggat þeirrar kvikmyndar. 
